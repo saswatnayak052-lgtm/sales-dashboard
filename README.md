@@ -94,5 +94,5 @@ Businesses struggle to understand which products, regions, and customer segments
 # Screen Short :
 <img width="1366" height="768" alt="Super store sales dashboard " src="https://github.com/user-attachments/assets/4d59cab9-a572-4ff2-a529-c1d51035ad27" />
 
-<img width="1366" height="768" alt="Super store sales dashboard " src="https://github.com/user-attachments/assets/5a74d4ff-7fd7-418f-99cb-89f0c4b3aa32" />
+<img width="1366" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/3a770bda-07cd-4c62-948f-609128d8ba38" />
 
